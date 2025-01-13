@@ -1,0 +1,21 @@
+html {
+    background-color: goldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+header {
+    text-align: center;
+    background-color: white;
+    width: 80%;
+    margin: 2rem auto;
+    padding: 1rem 0;
+    border-radius: 1rem;
+  }
+  main {
+    text-align: center;
+    background-color: dimgray;
+    color: honeydew;
+    width: 80%;
+    margin: 2rem auto;
+    padding: 1rem 0;
+    border-radius: .5rem;
+  }
